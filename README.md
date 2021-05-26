@@ -50,6 +50,6 @@ const sarvag = {
  <br />
   <br />
 
-[![S's stats](https://github-readme-stats.vercel.app/api?username=starbvuks&theme=synthwave&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![S's stats](https://github-readme-stats.vercel.app/api?username=starbvuks&theme=synthwave&show_icons=true)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 
