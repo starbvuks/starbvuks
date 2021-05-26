@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![S's stats](https://github-readme-stats.vercel.app/api?username=starbvuks)](https://github.com/anuraghazra/github-readme-stats)
+[![S's stats](https://github-readme-stats.vercel.app/api?username=starbvuks&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
