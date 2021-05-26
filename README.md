@@ -26,8 +26,6 @@ const sarvag = {
 ```
 <br />
 
-[![S's stats](https://github-readme-stats.vercel.app/api?username=starbvuks&theme=synthwave&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 <h2>Current Stack:</h2>
 
 <p align="left">
@@ -51,3 +49,7 @@ const sarvag = {
 
  <br />
   <br />
+
+[![S's stats](https://github-readme-stats.vercel.app/api?username=starbvuks&theme=synthwave&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
