@@ -1,4 +1,3 @@
-### Welcome to my GitHub Page
 <!--
 - 🔭 I’m currently working on perfecting backend skills 
 - 🌱 I’m currently learning everythi
@@ -9,6 +8,23 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```javascript
+// Welcome to my GitHub Page
+
+const sarvag = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS, Python],
+  main_tools: [React, Redux, Node, Express, Bootstrap, MongoDB, Postman],
+  techCommunities: {
+                        github: "github.com/starbvuks",
+                        institution: "Woxsen Uni",
+                        bootcamp: "SOAL"
+                      },
+ challenge: "Becoming a Full-Stack God by the end of this year"
+}
+```
+
 
 [![S's stats](https://github-readme-stats.vercel.app/api?username=starbvuks&theme=synthwave&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
