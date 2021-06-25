@@ -15,13 +15,13 @@
 const sarvag = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, (some) Python],
-  main_tools: [React, Redux, Node, Express, Bootstrap, MongoDB, Postman],
+  main_tools: [React, Node, Express, MongoDB, Material_UI],
   techCommunities: {
                         github: "github.com/starbvuks",
                         institution: "Woxsen Uni",
                         bootcamp: "SOAL"
                       },
- challenge: "Becoming a Full-Stack God by the end of this year"
+ goal: "Becoming a Full-Stack God by the end of the year"
 }
 ```
 <br />
