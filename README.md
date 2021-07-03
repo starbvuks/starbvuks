@@ -51,7 +51,7 @@ const sarvag = {
   <br />
 
   
-[![S's stats](https://github-readme-stats.vercel.app/api?username=starbvuks&theme=synthwave&show_icons=true&count_private=true)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![S's stats](https://github-readme-stats.vercel.app/api?username=starbvuks&count_private=true&theme=dracula&show_icons=true)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
   
  <div align="center">
