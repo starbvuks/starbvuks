@@ -36,6 +36,7 @@ const sarvag = {
 <a href="https://material-ui.com" target="_blank"> <img src="https://material-ui.com/static/logo_raw.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-512.png" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://npmjs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npm" width="40" height="40"/> </a>
+  <a href="https://npmjs.org" target="_blank"> <img src=" https://styled-components.com/logo.png" alt="npm" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
