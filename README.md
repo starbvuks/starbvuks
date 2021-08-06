@@ -21,7 +21,7 @@ const sarvag = {
                         institution: "Woxsen Uni",
                         bootcamp: "SOAL"
                       },
- goal: "Mastering React by the end of the year"
+ goal: "Mastering the Front-End by the end of this year"
 }
 ```
 <br />
