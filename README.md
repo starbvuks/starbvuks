@@ -1,7 +1,7 @@
 <!--
 - 🔭 I’m currently working on perfecting backend skills 
 - 🌱 I’m currently learning everythi
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on ..
 - 🤔 I’m looking for help with ..
 - 💬 Ask me about ...
 - 📫 How to reach me: ..
