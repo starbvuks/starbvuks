@@ -1,5 +1,5 @@
 <!--
-- 🔭 I’m currently working on perfecting backend skill
+- 🔭 I’m currently working on perfecting backend ski
 - 🌱 I’m currently learning eve
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with 
