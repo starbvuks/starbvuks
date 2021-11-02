@@ -1,7 +1,7 @@
 <!--
 - 🔭 I’m currently working on perfecting backend ski
 - 🌱 I’m currently learning eve
-- 👯 I’m looking to collaborate on 
+- 👯 I’m looking to collaborate o
 - 🤔 I’m looking for help with 
 - 💬 Ask me abo
 - 📫 How to reach me
