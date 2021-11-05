@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate o
 - 🤔 I’m looking for help with 
 - 💬 Ask me abo
-- 📫 How to reach me
+- 📫 How to reach 
 - 😄 Pronouns: 
 - ⚡ Fun fact: 
 -->
