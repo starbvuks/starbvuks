@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning eve
 - 👯 I’m looking to collaborate o
 - 🤔 I’m looking for help with 
-- 💬 Ask me abo
+- 💬 Ask me ab
 - 📫 How to reach 
 - 😄 Pronouns: 
 - ⚡ Fun fact: 
