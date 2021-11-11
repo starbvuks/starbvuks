@@ -1,6 +1,6 @@
 <!--
 - 🔭 I’m currently working on perfecting backend ski
-- 🌱 I’m currently learning eve
+- 🌱 I’m currently learning e
 - 👯 I’m looking to collaborate o
 - 🤔 I’m looking for help wit
 - 💬 Ask me ab
