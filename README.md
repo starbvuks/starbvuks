@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate o
 - 🤔 I’m looking for help wit
 - 💬 Ask me ab
-- 📫 How to rea
+- 📫 How to re
 - 😄 Pronouns: 
 - ⚡ Fun fac
 -->
