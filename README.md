@@ -19,10 +19,11 @@ const sarvag = {
   learning: [Angular, Apache Cassandra]
   techCommunities: {
                         github: "github.com/starbvuks",
-                        institution: "Woxsen Uni",
+                        institution: "Woxsen University",
+                        codewars: "https://www.codewars.com/users/starbvuks"
                         bootcamp: "SOAL"
                       },
- goal: "Mastering Full-Stack"
+ goal: "Mastering Full-Stack / Web Dev Technologies"
 }
 ```
 <br />
