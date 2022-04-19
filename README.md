@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help wi
 - 💬 Ask me ab
 - 📫 How to re
-- 😄 Pronouns: 
+- 😄 Pronouns
 - ⚡ Fun fac
 -->
 
