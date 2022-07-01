@@ -6,7 +6,7 @@
 - 💬 Ask me ab
 - 📫 How to re
 - 😄 Pronouns
-- ⚡ Fun fac
+- ⚡ Fun fa
 -->
 
 ```javascript
