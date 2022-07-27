@@ -3,7 +3,7 @@
 - 🌱 I’m currently learnin
 - 👯 I’m looking to collaborate o
 - 🤔 I’m looking for help wi
-- 💬 Ask me ab
+- 💬 Ask me a
 - 📫 How to re
 - 😄 Pronouns
 - ⚡ Fun fa
