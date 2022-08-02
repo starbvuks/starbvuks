@@ -38,7 +38,7 @@ const sarvag = {
   <a href="https://npmjs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npm" width="40" height="40"/> </a>
   <a href="https://strapi.com" target="_blank"> <img src="https://seeklogo.com/images/S/strapi-logo-3551DD3743-seeklogo.com.png" alt="strapi" width="40" height="40"/> </a>
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://firebase.google.com/" target="_blank"> <img src="https://firebase.google.com/downloads/brand-guidelines/SVG/logo-logomark.svg" alt="mongodb" width="40" height="40"/> </a> 
+  <a href="https://firebase.google.com/" target="_blank"> <img src="https://firebase.google.com/downloads/brand-guidelines/SVG/logo-logomark.svg" alt="firebase" width="40" height="40"/> </a> 
   <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="tailwindcss" width="40" height="40"/> </a>
