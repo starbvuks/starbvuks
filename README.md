@@ -14,16 +14,15 @@
 
 const sarvag = {
   pronouns: "he" | "him",
-  code: [Javascript, PHP, HTML/CSS, C, Python],
+  code: [Javascript, PHP, HTML/CSS, C, Java],
   main_tools: [React, Redux, Nextjs, Node, Firebase, Material_UI],
-  learning: [Angular, Apache Cassandra]
+  learning: [Web3 tech]
   techCommunities: {
                         github: "github.com/starbvuks",
                         institution: "Woxsen University",
                         codewars: "https://www.codewars.com/users/starbvuks"
-                        bootcamp: "SOAL"
                       },
- goal: "Mastering Full-Stack / Web Dev Technologies"
+ goal: "Learning and developing web3 tech"
 }
 ```
 <br />
