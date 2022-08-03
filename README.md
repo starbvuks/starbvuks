@@ -14,7 +14,7 @@
 
 const sarvag = {
   pronouns: "he" | "him",
-  code: [Javascript, PHP, HTML/CSS, C, Java],
+  code: [Javascript, Go, HTML/CSS, C, Java],
   main_tools: [React, Redux, Nextjs, Node, Firebase, Material_UI],
   learning: [Web3 tech]
   techCommunities: {
