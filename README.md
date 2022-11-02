@@ -20,7 +20,8 @@ const sarvag = {
   techCommunities: {
                         github: "github.com/starbvuks",
                         institution: "Woxsen University",
-                        codewars: "https://www.codewars.com/users/starbvuks"
+                        codewars: "https://www.codewars.com/users/starbvuks",
+                        hackerrank: "https://www.hackerrank.com/starbvuks"
                       },
  goal: "Learning and developing web3 tech"
 }
