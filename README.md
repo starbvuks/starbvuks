@@ -23,7 +23,7 @@ const sarvag = {
                       codewars: "https://www.codewars.com/users/starbvuks",
                       hackerrank: "https://www.hackerrank.com/starbvuks"
                     },
- goal: "Learning and developing web3 tech"
+ goal: "Learning and developing tech in the web3 space"
 }
 ```
 <br />
