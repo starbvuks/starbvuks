@@ -20,8 +20,8 @@ const sarvag = {
   techCommunities: {
                       github: "github.com/starbvuks",
                       institution: "Woxsen University",
+                      hackerrank: "https://leetcode.com/sarvag/"
                       codewars: "https://www.codewars.com/users/starbvuks",
-                      hackerrank: "https://www.hackerrank.com/starbvuks"
                     },
  goal: "Learning and developing tech in the web3 space"
 }
@@ -60,7 +60,6 @@ const sarvag = {
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
-  <a href="https://go.dev/" target="_blank"> <img src="https://seeklogo.com/images/G/go-logo-046185B647-seeklogo.com.png" alt="go" height="40"/>
 <!--
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
