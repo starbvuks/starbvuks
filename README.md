@@ -72,13 +72,6 @@ const sarvag = {
   <br />
 
 </p>
-<h3 align="center" style='margin: 32px 4px 8px; font-size: 24px;'>
-    Stats:
-</h3>
-  <div align='center'>
-     <img src="https://github-readme-stats.vercel.app/api?username=starbvuks&show_icons=true&locale=en&theme=dracula" alt="sarvagk" />
-     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=starbvuks&show_icons=true&locale=en&layout=compact&theme=dracula&langs_count=10" alt="sarvagk" />
-  </div>
   
  <div align="center">
    
