@@ -11,10 +11,10 @@ I'm a recent Computer Science graduate (April 2025) passionate about building in
 
 ## 🚀 About Me
 
-*   👨‍💻 Full-Stack Developer with expertise in **React, Node.js, Next.js, Python, MongoDB, and PostgreSQL**.
+*   👨‍💻 Full-Stack Developer with expertise in **React, Node.js, Next.js, MongoDB, and PostgreSQL**.
 *   🎮 Experience in **game backend development** (Unity VR, Express.js) and leading projects as a **Video Game Producer**.
 *   💡 Passionate about creating intuitive user interfaces, scalable backends, and leveraging AI for practical applications.
-*   🌱 Always learning and exploring new technologies to enhance my skill set. Currently diving deeper into [mention 1-2 current learning interests, e.g., advanced Docker/Kubernetes, specific AI libraries, or a new framework].
+*   🌱 Always learning and exploring new technologies to enhance my skill set.
 *   US Permanent Resident (No sponsorship required).
 
 ---
@@ -52,10 +52,6 @@ Here are a couple of projects I'm particularly proud of. You can find more on my
     *   *Key Features: CSV data import, Proxycurl API integration, AI chat interface, LinkedIn OAuth.*
 2.  **[Fitbook](https://fitbook.club)** - A full-stack digital wardrobe and outfit planner (Next.js, Tailwind, Prisma, NeonDB).
     *   *Key Features: CRUD operations, drag-and-drop outfit creation, community discovery, image uploads.*
-3.  **Gamitronics VR Game Backend** - Engineered the backend for a Unity VR game during my internship.
-    *   *Key Features: Player auth & stats, leaderboards, multiple game modes, cross-platform SDK integration.*
-
-*(Remember to update the links to your actual repositories or live project URLs!)*
 
 ---
 
