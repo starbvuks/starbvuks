@@ -38,6 +38,8 @@ Here are some of the key technologies and tools I work with:
 **APIs & Tools:**
 `OpenAI API` `Proxycurl API` `Postman` `Figma` `ClickUp` `Cursor IDE`
 
+[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,py,tailwind,reactnative,redux,mongodb,postgres,neondb,prisma,strapi,firebase,aws,docker,nginx,vercel,git,github,postman,figma,md&perline=7)](https://skillicons.dev)
+
 <!-- You can also use icons here. Example using skill-icons:
 [![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,py,tailwind,mongodb,postgres,aws,docker,git&perline=6)](https://skillicons.dev)
 Replace with the icons relevant to you from: https://github.com/tandpfun/skill-icons -->
