@@ -5,7 +5,7 @@
 <a href="https://github.com/starbvuks" target="_blank"><img src="https://img.shields.io/badge/GitHub-starbvuks-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="mailto:sarvagk@gmail.com"><img src="https://img.shields.io/badge/Email-sarvagk@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 
-I'm a recent Computer Science graduate (April 2025) passionate about building innovative full-stack solutions and exploring the intersection of technology and user experience. With a strong foundation in MERN stack development, game backend engineering, and project delivery, I'm eager to contribute to impactful projects.
+Recent compsci grad (April 2025), experience so far includes MERN stack development, game backend engineering, and video game production. Here to build cool sh*t and keep learning and discovering new tech.
 
 ---
 
@@ -68,9 +68,9 @@ Here are a couple of projects I'm particularly proud of. You can find more on my
 
 ---
 
-## 📫 Let's Connect!
+## 📫 hmu
 
-I'm always open to discussing new projects, technology, or collaboration opportunities.
+Always open to discuss new projects, technology, or collab opportunities.
 
 *   **Portfolio:** [sarvagk.com](https://sarvagk.com)
 *   **LinkedIn:** [linkedin.com/in/sarvag-kalari](https://www.linkedin.com/in/sarvag-kalari)
@@ -78,5 +78,3 @@ I'm always open to discussing new projects, technology, or collaboration opportu
 *   **Coding Profiles:**
     *   LeetCode: [leetcode.com/sarvag/](https://leetcode.com/sarvag/)
     *   Codewars: [codewars.com/users/starbvuks](https://www.codewars.com/users/starbvuks)
-
-Thanks for visiting!
