@@ -1,80 +1,51 @@
-# Hi there, I'm Sarvag Kalari 👋
+### Hey, I'm Sarvag 👋
 
 <a href="https://sarvagk.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-sarvagk.com-blue?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
 <a href="https://www.linkedin.com/in/sarvag-kalari" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Sarvag%20Kalari-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://github.com/starbvuks" target="_blank"><img src="https://img.shields.io/badge/GitHub-starbvuks-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="mailto:sarvagk@gmail.com"><img src="https://img.shields.io/badge/Email-sarvagk@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 
-Recent compsci grad (April 2025), experience so far includes MERN stack development, game backend engineering, and video game production. Here to build cool sh*t and keep learning and discovering new tech.
+I'm a recent CS grad (April '25) who believes the best way to learn is by building. Theory is cool, but shipping a real project is what gets me going. I love diving into the full stack, figuring out complex problems, and turning ideas into things people can actually use.
+
+My journey so far has been a mix of professional work and a whole lot of "I wonder if I can build that..." projects. I've engineered a **Node.js backend for a commercial VR game**, taken on project delivery as a **Video Game Producer**, and even directed a **Startup Grind** chapter. I thrive on ownership and the challenge of seeing a project through from a blank file to a finished product.
+
+Right now, I'm deep-diving into **serverless architecture on AWS (Lambda, API Gateway)** with my Palemra project and exploring the practical side of AI with multi-tenant APIs using **NestJS and vector search**.
 
 ---
 
-## 🚀 About Me
+### 🛠️ What I Work With
 
-*   👨‍💻 Full-Stack Developer with expertise in **React, Node.js, Next.js, MongoDB, and PostgreSQL**.
-*   🎮 Experience in **game backend development** (Unity VR, Express.js) and leading projects as a **Video Game Producer**.
-*   💡 Passionate about creating intuitive user interfaces, scalable backends, and leveraging AI for practical applications.
-*   🌱 Always learning and exploring new technologies to enhance my skill set.
-*   US Permanent Resident (No sponsorship required).
+I pick the right tool for the job, but here's what's currently in my toolkit:
+
+[![My Skills](https://skillicons.dev/icons?i=ts,js,py,react,nextjs,nodejs,nestjs,express,tailwind,reactnative,mongodb,postgres,prisma,aws,gcp,docker,git,pnpm,turborepo,jest&perline=7)](https://skillicons.dev)
 
 ---
 
-## 🛠️ My Tech Stack
+### ✨ Some Things I've Built
 
-Here are some of the key technologies and tools I work with:
+Here are a few of the projects I've spent my recent late nights on.
 
-**Frontend:**
-`JavaScript (ES6+)` `React.js` `Next.js` `HTML5` `CSS3` `Tailwind CSS` `React Native` `Redux`
+1.  🧠 **TalentMapp (AI-Powered API & Platform)**
+    *   A multi-tenant **NestJS** API using **OpenAI embeddings** and **MongoDB Atlas vector search**. The goal is to make talent search intelligent and subjective. Paired with a **Next.js** frontend.
 
-**Backend:**
-`Node.js` `Express.js` `Python` `Prisma` `Strapi CMS`
-
-**Databases:**
-`MongoDB` `PostgreSQL` `NeonDB` `Firebase`
-
-**Cloud & DevOps:**
-`AWS (EC2, S3)` `Docker` `Nginx` `Vercel` `Git` `GitHub`
-
-**APIs & Tools:**
-`OpenAI API` `Proxycurl API` `Postman` `Figma` `ClickUp` `Cursor IDE`
-
-[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,py,tailwind,reactnative,redux,mongodb,postgres,neondb,prisma,strapi,firebase,aws,docker,nginx,vercel,git,github,postman,figma,md&perline=7)](https://skillicons.dev)
-
-<!-- You can also use icons here. Example using skill-icons:
-[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,py,tailwind,mongodb,postgres,aws,docker,git&perline=6)](https://skillicons.dev)
-Replace with the icons relevant to you from: https://github.com/tandpfun/skill-icons -->
+2.  👕 **Fitbook (Full-Stack Solo Project)**
+    *   My personal solution to "I have nothing to wear." A digital wardrobe and outfit planner built with Next.js, Prisma, and NeonDB. Built and shipped in 3 months. Check it out at **[fitbook.club](https://fitbook.club)**.
 
 ---
 
-## ✨ Featured Projects
+### 📫 Let's Connect
 
-Here are a couple of projects I'm particularly proud of. You can find more on my repositories tab!
-
-1.  **[talentmapp](https://github.com/starbvuks/talentmapp_repo_link_here)** - An AI-powered talent search platform (MERN, Next.js, OpenAI API) enabling users to intelligently query their LinkedIn connections.
-    *   *Key Features: CSV data import, Proxycurl API integration, AI chat interface, LinkedIn OAuth.*
-2.  **[Fitbook](https://fitbook.club)** - A full-stack digital wardrobe and outfit planner (Next.js, Tailwind, Prisma, NeonDB).
-    *   *Key Features: CRUD operations, drag-and-drop outfit creation, community discovery, image uploads.*
-
----
-
-## 📊 My GitHub Stats
-
-<!-- Replace 'starbvuks' with your GitHub username -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=starbvuks&show_icons=true&theme=radical&rank_icon=github" alt="Sarvag's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starbvuks&layout=compact&theme=radical" alt="Sarvag's Top Languages" />
-</p>
-
----
-
-## 📫 hmu
-
-Always open to discuss new projects, technology, or collab opportunities.
+Always down to talk about new tech, interesting projects, or collaboration opportunities.
 
 *   **Portfolio:** [sarvagk.com](https://sarvagk.com)
 *   **LinkedIn:** [linkedin.com/in/sarvag-kalari](https://www.linkedin.com/in/sarvag-kalari)
 *   **Email:** [sarvagk@gmail.com](mailto:sarvagk@gmail.com)
-*   **Coding Profiles:**
-    *   LeetCode: [leetcode.com/sarvag/](https://leetcode.com/sarvag/)
-    *   Codewars: [codewars.com/users/starbvuks](https://www.codewars.com/users/starbvuks)
+
+---
+<!-- Optional: If you want to keep the stats, they can go here. They are less "human" but some people like them.
+## 📊 My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=starbvuks&show_icons=true&theme=dracula&rank_icon=github" alt="Sarvag's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starbvuks&layout=compact&theme=dracula" alt="Sarvag's Top Languages" />
+</p>
+-->
