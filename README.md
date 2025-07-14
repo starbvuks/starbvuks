@@ -9,7 +9,7 @@ I'm a recent CS grad (April '25) who believes the best way to learn is by buildi
 
 My journey so far has been a mix of professional work and a whole lot of "I wonder if I can build that..." projects. I've engineered a **Node.js backend for a commercial VR game**, taken on project delivery as a **Video Game Producer**, and even directed a **Startup Grind** chapter. I thrive on ownership and the challenge of seeing a project through from a blank file to a finished product.
 
-Right now, I'm deep-diving into **serverless architecture on AWS (Lambda, API Gateway)** with my Palemra project and exploring the practical side of AI with multi-tenant APIs using **NestJS and vector search**.
+Right now, I'm deep-diving into **serverless architecture on AWS (Lambda, API Gateway)** with **talentmapp** and exploring the practical side of AI with multi-tenant APIs using **NestJS and vector search**.
 
 ---
 
