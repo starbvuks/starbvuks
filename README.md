@@ -1,8 +1,4 @@
-i build cool shit
-
-*   **Portfolio:** [sarvagk.com](https://sarvagk.com)
-*   **LinkedIn:** [linkedin.com/in/sarvag-kalari](https://www.linkedin.com/in/sarvag-kalari)
-*   **Email:** [sarvagk@gmail.com](mailto:sarvagk@gmail.com)
+busy building cool shit
 <!-- Optional: If you want to keep the stats, they can go here. They are less "human" but some people like them.
 ## 📊 My GitHub Stats
 <p align="center">
