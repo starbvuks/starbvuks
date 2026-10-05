@@ -1,8 +1,19 @@
-busy building cool shit
-<!-- Optional: If you want to keep the stats, they can go here. They are less "human" but some people like them.
-## 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=starbvuks&show_icons=true&theme=dracula&rank_icon=github" alt="Sarvag's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starbvuks&layout=compact&theme=dracula" alt="Sarvag's Top Languages" />
-</p>
--->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img src="assets/header-light.svg" alt="starbvuks" width="640">
+</picture>
+
+busy building cool shit.
+
+### selected work
+
+- [fitbook](https://github.com/starbvuks/selected-work/tree/main/fitbook) — desktop fashion discovery. local data, a wardrobe, a sense of taste.
+- [the sandwich manifesto](https://github.com/starbvuks/selected-work/tree/main/sandwich-manifesto) — one sandwich recipe, given a whole interface.
+
+### early work
+
+- [colour kit](https://github.com/starbvuks/themes-colorkit) — playing with themes. `2021`
+- [pomodoro](https://github.com/starbvuks/pomodoro-demo) — a browser timer with somewhere to put your tasks. `2021`
+
+<sub>Selected work links to public project notes. Those projects' source stays private.</sub>
